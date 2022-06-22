@@ -12,3 +12,4 @@ mljar-supervised==0.11.1
 bayesian-optimization==1.2.0
 xlsxwriter==3.0.3
 optuna==2.10.0
+pygad~=2.16.3
